@@ -1,6 +1,6 @@
 # 🗺️ Spider Maps
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: M4 Spider Custom](https://img.shields.io/badge/License-M4%20Spider%20Custom-orange.svg)](LICENSE)
 [![Framework: React 19 + Vite](https://img.shields.io/badge/Framework-React%2019%20%7C%20Vite-61dafb.svg)](#technology-stack)
 [![Map Engine: MapLibre GL](https://img.shields.io/badge/Engine-MapLibre%20GL-brightgreen.svg)](#features)
 
@@ -66,4 +66,8 @@ Spider Maps is pre-packaged as a native SPK application in Spider OS:
 
 ## 📄 License
 
-Spider Maps is open-source software licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+Spider Maps is licensed under the **M4 Spider Maps Public License (M4-SMPL v1.0)**:
+* **Code:** Permissive — you are free to use, modify, distribute, or bundle the software code.
+* **Place & Map Data:** If new places, POIs, landmarks, or geographic data are added, they **must be submitted upstream to M4 Spider Maps or contributed to OpenStreetMap (OSM)**. Private hoarding of newly added place data is not permitted.
+
+See [LICENSE](LICENSE) for the full license terms.

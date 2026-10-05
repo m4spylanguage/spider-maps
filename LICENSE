@@ -1,6 +1,6 @@
-MIT License
+M4 Spider Maps Public License (M4-SMPL v1.0)
 
-Copyright (c) 2026 Spider OS Contributors
+Copyright (c) 2026 Vivek Valuvajjala (M4SPIDER) & Spider OS Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +9,24 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. SOURCE CODE FREEDOM:
+   You may do anything with the source code of the Software (including free use,
+   modification, commercial use, closed-source integration, sublicensing, and
+   redistribution) provided that the above copyright notice and this permission
+   notice appear in all copies or substantial portions of the Software.
+
+2. PLACE & GEOGRAPHIC DATA UPSTREAM REQUIREMENT:
+   If any user, developer, deployer, or organization adds, annotates, enriches,
+   or creates any new places, points of interest (POIs), business listings,
+   landmarks, or geographic metadata within or in connection with the Software
+   or any derivative work:
+   - All such newly added place and geographic data MUST be submitted either:
+       (a) Upstream to the M4 Spider Maps project (for inclusion in the official
+           Spider Maps public database), OR
+       (b) Contributed directly to OpenStreetMap (OSM) under the Open Database
+           License (ODbL).
+   - Private hoarding, proprietary locking, or exclusive withholding of newly
+     added place data created or gathered via this Software is strictly prohibited.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

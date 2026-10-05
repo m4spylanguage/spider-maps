@@ -2,7 +2,7 @@
   "name": "spider-maps",
   "version": "1.0.0",
   "description": "Fast, Lightweight, and Privacy-Focused Native Web Mapping Application for Spider OS",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "scripts": {
     "dev": "vite",
