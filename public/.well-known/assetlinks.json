@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.spidermaps.app",
+      "sha256_cert_fingerprints": [
+        "9C:F7:4D:09:16:4E:B4:7F:02:E5:56:D7:05:B8:72:FB:E3:D2:34:B7:64:B1:F9:60:D9:4A:D5:47:FB:FB:9D:BE"
+      ]
+    }
+  }
+]
